@@ -138,13 +138,13 @@ The following inferences can be drawn from the dashboard;
 
  - EMEA = 24 104 100 (12.34 %)
 
-           Thus, higher number of Revenue are from the Europe.
+           Thus, the higher number of Revenue is from the Europe.
            
-## [2] Revenue by Deparment
+## [2] Revenue by Department
 
 - Audit = 39 224 100
 
-- Managment = 39 221 400
+- Management = 39 221 400
 
 - Advisory = 39 024 300
 
@@ -152,20 +152,11 @@ The following inferences can be drawn from the dashboard;
 
 - Legal = 38 859 000
 
-        Thus, revenue of almost all departments is more or less equal.
-
-### Report of 2023    
-
-Budget = 5 800 000
-
-Sales = 16 349 330
-
-        Thus, in 2023, the company made a profit of 10549330 (181.9%) USD.
-  
+        Thus, the revenue of almost all departments is more or less equal.
   
   ### [3] Top 5 Clients
         
-- Smith inc - 379 500
+- Smith Inc - 379 500
 
 - Smith PLC -323 100
 
