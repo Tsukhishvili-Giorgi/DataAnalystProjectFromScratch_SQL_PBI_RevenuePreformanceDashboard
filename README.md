@@ -88,29 +88,28 @@ Month
         DateTable = CALENDAR(MIN(serviceData[service_date]),MAX(serviceData[service_date]))
 
 - Step 10 : Create Key meausre table for all measurement;
-- Step 11 : Create Key meausre table for all measurement;
-- Step 12 : A donut chart and 100 % stacked column chart are used to show Revenue by Region. While creating this visual, a Column named "Region" was also added to the Legends field, and TotalRevenue meausre was added to the Value field.
+- Step 11 : A donut chart and 100 % stacked column chart are used to show Revenue by Region. While creating this visual, a Column named "Region" was also added to the Legends field, and TotalRevenue meausre was added to the Value field.
 
 ![Total_Revenue_By_Region](https://github.com/Tsukhishvili-Giorgi/DataAnalystProjectFromScratch_SQL_PBI_RevenuePreformanceDashboard/assets/117026869/c9315b20-ae37-4604-8571-70337c30927a)
 
 ![Revenue%_Of_Overall](https://github.com/Tsukhishvili-Giorgi/DataAnalystProjectFromScratch_SQL_PBI_RevenuePreformanceDashboard/assets/117026869/d22d0e9d-2a76-4112-b90f-ce251b0bb55b)
 
-- Step 13 : A line chart used to show the Month on Month Revenue % Increase:
+- Step 12 : A line chart used to show the Month on Month Revenue % Increase:
 
 ![Month_on_Month_Revenue%_Increase](https://github.com/Tsukhishvili-Giorgi/DataAnalystProjectFromScratch_SQL_PBI_RevenuePreformanceDashboard/assets/117026869/c57ff5c2-1a4a-460e-af75-5edafcb28327)
 
 
-- Step 14 : The Cards used to show TotalRevenue and TotalHour.
+- Step 13 : The Cards used to show TotalRevenue and TotalHour.
 
 ![Total_Revenue](https://github.com/Tsukhishvili-Giorgi/DataAnalystProjectFromScratch_SQL_PBI_RevenuePreformanceDashboard/assets/117026869/a84d9dad-33d0-4929-b9b8-d088ba91aef7)
 
 ![Total_Hour](https://github.com/Tsukhishvili-Giorgi/DataAnalystProjectFromScratch_SQL_PBI_RevenuePreformanceDashboard/assets/117026869/2aec66ea-4789-42f6-9766-635d0661679c)
 
-- Step 15 : A Table used to show Client's name by Revenue.
+- Step 14 : A Table used to show Client's name by Revenue.
 
 ![Table_Of_Clients_By_Revenue](https://github.com/Tsukhishvili-Giorgi/DataAnalystProjectFromScratch_SQL_PBI_RevenuePreformanceDashboard/assets/117026869/d0ed16d7-57ae-4bbd-91d8-394ba64404c9)
 
-- Step 16 : 100 % Stacked bar chart are used to show Revenue by Deparment.
+- Step 15 : 100 % Stacked bar chart are used to show Revenue by Deparment.
 
 ![image](https://github.com/Tsukhishvili-Giorgi/DataAnalystProjectFromScratch_SQL_PBI_RevenuePreformanceDashboard/assets/117026869/5c1142f2-a95e-4314-adff-076bf6058fd0)
 
